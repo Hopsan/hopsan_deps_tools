@@ -3,6 +3,6 @@ The tools are used by the build/test system, or are part of the packaged release
 
 Original sources of these tools are:
 
-https://svn.fmi-standard.org/fmi/branches/public/Test_FMUs/Compliance-Checker/
+https://github.com/modelica-tools/FMUComplianceChecker
 
 https://sourceforge.net/projects/sevenzip/files/7-Zip/
